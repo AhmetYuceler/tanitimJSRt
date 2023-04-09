@@ -1,7 +1,7 @@
-npx creat-react-app p1
-npm install react-router-dom
-npm install react-bootstrap bootstrap
-npm install npm i mdb-ui-kit
+# npx creat-react-app p1
+# npm install react-router-dom
+# npm install react-bootstrap bootstrap
+# npm install npm i mdb-ui-kit
 
 
 # Getting Started with Create React App
